@@ -8,3 +8,7 @@ The article is a useful mental model for designing systems and planning changes.
 
 
 -- Blake Chang 
+
+This article made me think about an issue that I hadn't thought about before. I thought it was interesting how the author explained the process by which users come to use aspects of your system that you may not originally have intended for. What you say your API isn't a limit on what users will come to expect of it. It is a good lesson on what to keep in mind when making changes to a widely used system. 
+
+-- Carolina Lee
