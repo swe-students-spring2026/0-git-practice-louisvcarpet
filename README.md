@@ -6,7 +6,7 @@ I find Hyrum's Law fascinating because it puts a clear name to a problem every e
 
 The article is a useful mental model for designing systems and planning changes. It nudges me to think about testing and observability as ways to detect what people actually depend on, and it reinforces the idea that “small” changes can have large blast radii in a mature system. 
 
--- Blake Chang 
+-- Blake Chang
 
 This article made me think about an issue that I hadn't thought about before. I thought it was interesting how the author explained the process by which users come to use aspects of your system that you may not originally have intended for. What you say your API isn't a limit on what users will come to expect of it. It is a good lesson on what to keep in mind when making changes to a widely used system. 
 
